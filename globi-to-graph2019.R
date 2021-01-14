@@ -26,13 +26,16 @@ interactions_types <- get_interaction_types()
 View(interactions_types)
 
 #pagenation, but unclear about limit of number
-otherkeys = list("limit"=10000, "skip"=0)
+otherkeys = list("limit"=50000, "skip"=0)
 
-first_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "bombus", otherkeys = otherkeys)
+first_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", otherkeys = otherkeys)
 
-otherkeys = list("limit"=10000, "skip"=10000)
+otherkeys = list("limit"=50000, "skip"=10000)
 
-second_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "bombus", otherkeys = otherkeys)
+second_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", otherkeys = otherkeys)
+
+#total records is 84227
+#same if use get_interactions_by_taxa(sourcetaxon = NULL,targettaxon = "Apidae", otherkeys = otherkeys)
 
 #get interactions of bumble bees
 #bumblebeesInteractions <- get_interactions_by_taxa(sourcetaxon = "bombus")
@@ -47,6 +50,8 @@ nrow(total)
 #get interaction dataset
 interactions <- data.frame(total$source_taxon_name,total$target_taxon_name,total$interaction_type)
 
+head(interactions)
+
 #create a new dataframe for a network graph (vertex, edges)
 bsk <- data.frame(total$source_taxon_name,total$target_taxon_name)
 
@@ -57,14 +62,15 @@ unique(total$source_taxon_name)
 
 #need to filter by interaction type
 unique(total$target_taxon_name)
+unique(total$source_taxon_name)
 
 #look at data
 head(bsk)
 tail(bsk)
 
-vosnesenskii <- filter(bsk, total.source_taxon_name=="Calyptra minuticornis")
+#vosnesenskii <- filter(bsk, total.source_taxon_name=="Calyptra minuticornis")
 
-crotchii <- filter(bsk, total.source_taxon_name=="Bombus crotchii")
+#crotchii <- filter(bsk, total.source_taxon_name=="Bombus crotchii")
 "Bombus crotchii"
 
 #describe network
