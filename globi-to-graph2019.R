@@ -3,8 +3,8 @@
 
 #download data from globi using r API
 #https://www.globalbioticinteractions.org
-#place data in SQLite database
 #create simple network with the data
+#code modified slightly from https://cran.r-project.org/web/packages/rglobi/index.html
 
 rm(list=ls())
 
@@ -21,10 +21,7 @@ library("tidyr")
 require(igraph)
 
 
-#look at the different interaction types
-interactions_types <- get_interaction_types()
-View(interactions_types)
-
+#How many Apidae records are in Globi?
 #pagenation, but unclear about limit of number
 otherkeys = list("limit"=50000, "skip"=0)
 
@@ -34,18 +31,20 @@ otherkeys = list("limit"=50000, "skip"=10000)
 
 second_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", otherkeys = otherkeys)
 
-#total records is 84227
-#same if use get_interactions_by_taxa(sourcetaxon = NULL,targettaxon = "Apidae", otherkeys = otherkeys)
-
-#get interactions of bumble bees
-#bumblebeesInteractions <- get_interactions_by_taxa(sourcetaxon = "bombus")
-
-#head(bumblebeesInteractions)
+#total records for Apidae is 84227
+#same total if use get_interactions_by_taxa(sourcetaxon = NULL,targettaxon = "Apidae", otherkeys = otherkeys)
 
 total <- rbind(first_page_of_ten,second_page_of_ten)
 
 #how many rows in this dataset
+
 nrow(total)
+
+####################################################################################
+
+#look at the different interaction types
+interactions_types <- get_interaction_types()
+View(interactions_types)
 
 #get interaction dataset
 interactions <- data.frame(total$source_taxon_name,total$target_taxon_name,total$interaction_type)
