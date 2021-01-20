@@ -23,13 +23,16 @@ require(igraph)
 
 #How many Apidae records are in Globi?
 #pagenation, but unclear about limit of number
-otherkeys = list("limit"=50000, "skip"=0)
+otherkeys = list("limit"=1000000, "skip"=0)
+help("get_interactions_by_taxa")
 
-first_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", otherkeys = otherkeys)
 
-otherkeys = list("limit"=50000, "skip"=10000)
+#returnobservations = T includes individual observations rather than taxon level interactions.
+first_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae",returnobservations = T, otherkeys = otherkeys)
 
-second_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", otherkeys = otherkeys)
+otherkeys = list("limit"=1000000, "skip"=1000000)
+
+second_page_of_ten <- get_interactions_by_taxa(sourcetaxon = "Apidae", returnobservations = T, otherkeys = otherkeys)
 
 #total records for Apidae is 84227
 #same total if use get_interactions_by_taxa(sourcetaxon = NULL,targettaxon = "Apidae", otherkeys = otherkeys)
