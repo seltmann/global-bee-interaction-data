@@ -3,7 +3,7 @@
 [```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
 
 ### Introduction
-This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org). It is published quarterly by the [Big Bee Project](http://big-bee.net) to summarize all available knowledge about bee interactions from natural history collection, community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others. 
+This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org). It is published quarterly by the [Big Bee Project](http://big-bee.net) to summarize all available knowledge about bee interactions from natural history collection, community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others.
 
 ### Data Description
 Please see the [integration process page](https://www.globalbioticinteractions.org/process) to better understand how Global Biotic Interactions combines datasets from various sources. The complete interaction dataset for all species can be accessed via [https://www.globalbioticinteractions.org/data](https://www.globalbioticinteractions.org/data).
@@ -27,7 +27,7 @@ Total: 178,709 interactions
 
 ### References
 
-Jorrit H. Poelen, James D. Simons and Chris J. Mungall. (2014). Global Biotic Interactions: An open infrastructure to share and analyze species-interaction datasets. Ecological Informatics. [https://doi.org/10.1016/j.ecoinf.2014.08.005](https://doi.org/10.1016/j.ecoinf.2014.08.005).
+Poelen JH, Simons JD, Mungall CJ (2014). Global Biotic Interactions: An open infrastructure to share and analyze species-interaction datasets. Ecological Informatics. [https://doi.org/10.1016/j.ecoinf.2014.08.005](https://doi.org/10.1016/j.ecoinf.2014.08.005).
 
 Seltmann KC, Allen J, Brown BV, Carper A, Engel MS, Franz N, Gilbert E, Grinter C, Gonzalez VH, Horsley P, Lee S, Maier C, Miko I, Morris P, Oboyski P, Pierce NE, Poelen J, Scott VL, Smith M, Talamas EJ, Tsutsui ND, Tucker E (2021) Announcing Big-Bee: An initiative to promote understanding of bees through image and trait digitization. Biodiversity Information Science and Standards 5: e74037. [https://doi.org/10.3897/biss.5.74037](https://doi.org/10.3897/biss.5.74037)
 
