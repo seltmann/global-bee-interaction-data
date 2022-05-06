@@ -3,25 +3,17 @@
 [```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
 
 ### Introduction
-This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org)(Poelen et al. 2014). It is published quarterly by the [Big Bee Project](http://big-bee.net)(Seltmann et al. 2021) to summarize all available knowledge about bee interactions from natural history collection, community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others.
+This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org)(GloBI; Poelen et al. 2014). It is published quarterly by the [Big Bee Project](http://big-bee.net)(Seltmann et al. 2021) to summarize all available knowledge about bee interactions from natural history collection, community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others.
 
 ### Data Description
 Please see the [integration process page](https://www.globalbioticinteractions.org/process) to better understand how Global Biotic Interactions combines datasets from various sources. The complete interaction dataset for all species can be accessed via [https://www.globalbioticinteractions.org/data](https://www.globalbioticinteractions.org/data).
 
+Data is filtered for unique records based on the interaction description and source citation.
+
 ### Metrics
-
-
-April 27, 2020 GloBI has 178,709 interactions for bees.
-
-- Apidae - 103,612
-- Halictidae - 39,304
-- Andrenidae - 26,380
-- Colletidae - 7983
-- Melittidae - 1412
-- Stenotritidae - 18
-
-Total: 178,709 interactions
-
+date | total number of bee interactions | Apidae | Halictidae | Andrenidae | Colletidae | Melittidae | Stenotritidae
+April 27, 2020 | 178,709 | 103,612 | 39,304 | 26,380 | 7,983 | 1,412 | 18
+May 4, 2022 | 
 
 ### Included Resources
 
