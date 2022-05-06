@@ -1,6 +1,6 @@
-### Global Bee Interaction Data
+## Global Bee Interaction Data
 
-[```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references)
+[```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
 
 ### Introduction
 This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org). It is published quarterly by the [Big Bee Project](http://big-bee.net) to summerize all available knowledge about bee interactions from natural history collection, observations and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others. 
@@ -31,6 +31,7 @@ Jorrit H. Poelen, James D. Simons and Chris J. Mungall. (2014). Global Biotic In
 
 Seltmann, K. et al., 2021. Announcing Big-Bee: An initiative to promote understanding of bees through image and trait digitization. Biodiversity Information Science and Standards, 5. Available at: https://doi.org/10.3897/biss.5.74037
 
+### Acknowledgements
 
 <p align="center">
   <img src="https://github.com/globalbioticinteractions/logo/blob/main/globi_72x72.png?raw=true" width="72">
