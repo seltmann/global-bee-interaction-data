@@ -11,9 +11,10 @@ Please see the [integration process page](https://www.globalbioticinteractions.o
 Data is filtered for unique records based on the interaction description and source citation.
 
 ### Metrics
-date | total number of bee interactions | Apidae | Halictidae | Andrenidae | Colletidae | Melittidae | Stenotritidae
-April 27, 2020 | 178,709 | 103,612 | 39,304 | 26,380 | 7,983 | 1,412 | 18
-May 4, 2022 | 
+| date | total number of bee interactions | Apidae | Halictidae | Andrenidae | Colletidae | Melittidae | Stenotritidae |
+|---|---|---|---|---|---|---|---|
+| April 27, 2020 | 178,709 | 103,612 | 39,304 | 26,380 | 7,983 | 1,412 | 18 |
+| May 4, 2022 | 
 
 ### Included Resources
 
