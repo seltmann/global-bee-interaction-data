@@ -1,6 +1,6 @@
 ### Global Bee Interaction Data
 
-[```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data description) / [```Included Resources```](#included-resources) /  [```References```](#references)
+[```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references)
 
 ### Introduction
 This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org). It is published quarterly by the [Big Bee Project](http://big-bee.net) to summerize all available knowledge about bee interactions from natural history collection, observations and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others. Please see the [integration process page](https://www.globalbioticinteractions.org/process) to better understand how Global Biotic Interactions combines datasets from various sources. The complete interaction dataset for all species can be accessed via [https://www.globalbioticinteractions.org/data](https://www.globalbioticinteractions.org/data).
@@ -33,7 +33,7 @@ Seltmann, K. et al., 2021. Announcing Big-Bee: An initiative to promote understa
 
 
 
-![alt text](https://github.com/globalbioticinteractions/logo/blob/main/globi_72x72.png?raw=true)
+![alt text](https://github.com/globalbioticinteractions/logo/blob/main/globi_72x72.png?raw=true)![alt text](http://big-bee.net/images/UC_Santa_Barbara_Wordmark_Navy_RGB.png)![alt text](http://big-bee.net/images/NSF_4-Color_bitmap_Logo-small.png)![alt text](http://big-bee.net/images/logo.png)
 
 
 
