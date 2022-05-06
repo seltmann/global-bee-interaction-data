@@ -34,7 +34,7 @@ Seltmann, K. et al., 2021. Announcing Big-Bee: An initiative to promote understa
 
 <p align="center">
   <img src="https://github.com/globalbioticinteractions/logo/blob/main/globi_72x72.png?raw=true" width="72">
-  <img src="http://big-bee.net/images/UC_Santa_Barbara_Wordmark_Navy_RGB.png" width="400">
+  <img src="http://big-bee.net/images/UC_Santa_Barbara_Wordmark_Navy_RGB.png" width="300">
   <img src="http://big-bee.net/images/NSF_4-Color_bitmap_Logo-small.png" width="72">
   <img src="http://big-bee.net/images/logo.png" width="72">
 </p>
