@@ -34,10 +34,13 @@ Seltmann, K. et al., 2021. Announcing Big-Bee: An initiative to promote understa
 
 <p align="center">
   <img src="https://github.com/globalbioticinteractions/logo/blob/main/globi_72x72.png?raw=true" width="72">
-  <img src="http://big-bee.net/images/UC_Santa_Barbara_Wordmark_Navy_RGB.png" width="72">
+  <img src="http://big-bee.net/images/UC_Santa_Barbara_Wordmark_Navy_RGB.png" width="400">
   <img src="http://big-bee.net/images/NSF_4-Color_bitmap_Logo-small.png" width="72">
   <img src="http://big-bee.net/images/logo.png" width="72">
 </p>
 
+This project is supported by the National Science Foundation.
+<img src="images/logo.png" alt="" style="float:right;width:100px;margin:6px;"><img src="images/NSF_4-Color_bitmap_Logo-small.png" alt="" style="float:right;width:100px;margin:6px;">Award numbers: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2102006">2102006</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101929">2101929</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101908">2101908</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101876">2101876</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101875">2101875</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101851">2101851</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101345">2101345</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101913">2101913</a>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101891">2101891</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101850">2101850</a>.
+<br /><br /><br />
 
 
