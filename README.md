@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6564738.svg)](https://doi.org/10.5281/zenodo.6564738)
+
 ## Global Bee Interaction Data
 
 [```Citation```](#Citation) / [```Introduction```](#introduction) / [```Metrics```](#metrics) / [```Data Description```](#data-description) / [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
