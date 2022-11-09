@@ -15,10 +15,13 @@ Data is filtered for unique records based on the interaction description and sou
 Dataset column name definitions [https://api.globalbioticinteractions.org/interactionFields](https://api.globalbioticinteractions.org/interactionFields) or [https://api.globalbioticinteractions.org/interactionFields?type=csv](https://api.globalbioticinteractions.org/interactionFields)
 
 ### Metrics
-| date | total number of bee interactions | Apidae | Halictidae | Andrenidae | Colletidae | Melittidae | Stenotritidae |
-|---|---|---|---|---|---|---|---|
-| April 27, 2020 | 178,709 | 103,612 | 39,304 | 26,380 | 7,983 | 1,412 | 18 |
-| May 4, 2022 | 362,981 | 143,661 | 63,944 | 77,906 | 20,379 | 2,987 | 18 |
+| Date | Andrenidae | Apidae | Colletidae | Halictidae | Megachilidae | Melittidae | Stenotritidae | Total bee records |
+|---|---|---|---|---|---|---|---|---|
+| 07-17-2020 | 73,463 | 106,222 | 20,821 | 58,880 | 44,449 | 2,511 | 23 | 306,369 |
+| 01-24-2021 | 77,824 | 120,919 | 21,376 | 63,945 | 48,856 | 2,624 | 18 | 335,562 |
+| 11-17-2021 | 25,535 | 134,517 | 10,568 | 43,070 | 37,001 | 995 | 9 | 251,695 |
+| 06-01-2022 | 78,016 | 144,827 | 20,409 | 64,054 | 54,516 | 2,994 | 18 | 364,834 |
+| 11-07-2022 | 84,172 | 171,378 | 30,792 | 79,155 | 61,391 | 2,396 | 24 | 429,308 |
 
 ### Included Resources
 |count|source citation|
