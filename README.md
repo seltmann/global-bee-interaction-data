@@ -71,7 +71,7 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 | 4535 | National Database Plant Pollinators. Center for Plant Conservation at San Diego Zoo Global. Accessed via https://saveplants.org/national-collection/pollinator-search/ on 2020-06-05. |
 | 32 | National Museum of Natural History, Smithsonian Institution IPT RSS Feed |
 | 659 | Natural History Collections managed by Arctos (https://arctosdb.org) accessed via https://vertnet.org . |
-| 45 | Olito, Colin; Fox, Jeremy W. (2015), Data from: Species traits and abundances predict metrics of plant–pollinator network structure, but not pairwise interactions, Dryad, Dataset, https://doi.org/10.5061/dryad.7st32 
+| 45 | Olito, Colin; Fox, Jeremy W. (2015), Data from: Species traits and abundances predict metrics of plant–pollinator network structure, but not pairwise interactions, Dryad, Dataset, https://doi.org/10.5061/dryad.7st32 |
 | 3001 | Ollerton, J., Trunschke, J. ., Havens, K. ., Landaverde-González, P. ., Keller, A. ., Gilpin, A.-M. ., Rodrigo Rech, A. ., Baronio, G. J. ., Phillips, B. J., Mackin, C. ., Stanley, D. A., Treanore, E. ., Baker, E. ., Rotheray, E. L., Erickson, E. ., Fornoff, F. ., Brearley, F. Q. ., Ballantyne, G. ., Iossa, G. ., Stone, G. N., Bartomeus, I. ., Stockan, J. A., Leguizamón, J., Prendergast, K. ., Rowley, L., Giovanetti, M., de Oliveira Bueno, R., Wesselingh, R. A., Mallinger, R., Edmondson, S., Howard, S. R., Leonhardt, S. D., Rojas-Nossa, S. V., Brett, M., Joaqui, T., Antoniazzi, R., Burton, V. J., Feng, H.-H., Tian, Z.-X., Xu, Q., Zhang, C., Shi, C.-L., Huang, S.-Q., Cole, L. J., Bendifallah, L., Ellis, E. E., Hegland, S. J., Straffon Díaz, S., Lander, T. A. ., Mayr, A. V., Dawson, R. ., Eeraerts, M. ., Armbruster, W. S. ., Walton, B. ., Adjlane, N. ., Falk, S. ., Mata, L. ., Goncalves Geiger, A. ., Carvell, C. ., Wallace, C. ., Ratto, F. ., Barberis, M. ., Kahane, F. ., Connop, S. ., Stip, A. ., Sigrist, M. R. ., Vereecken, N. J. ., Klein, A.-M., Baldock, K. ., & Arnold, S. E. J. . (2022). Pollinator-flower interactions in gardens during the COVID-19 pandemic lockdown of 2020. Journal of Pollination Ecology, 31, 87–96. https://doi.org/10.26786/1920-7603(2022)695 |
 | 1 | Paleo Digitization Working Group. Biological associations extracted from fossil specimens. |
 | 4 | Palomares, M.L.D. and D. Pauly. Editors. 2018. SeaLifeBase. World Wide Web electronic publication. www.sealifebase.org, version (10/2018). |
@@ -87,7 +87,7 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 | 90 | San Diego Natural History Museum |
 | 249 | Sarah E Miller. 06/10/2015. Species associations manually extracted from Chamberlin, W. J. The Buprestidae of North America, Exclusive of Mexico, a Catalogue including Synonomy, Bibliography, Distribution, Type Locality and Hosts of Each Species,. 1926. |
 | 131 | Sarah E Miller. 12/13/2016. Species associations manually extracted from Onstad, D.W. EDWIP: Ecological Database of the World's Insect Pathogens. Champaign, Illinois: Illinois Natural History Survey, [23/11/2016]. http://insectweb.inhs.uiuc.edu/Pathogens/EDWIP. |
-| 946 | Sarah E Miller. 4/18/2016. Species associations from Wardeh, M. et al. Database of host-pathogen and related species interactions, and their global distribution. Sci. Data 2:150049 doi: 10.1038/sdata.2015.49 (2015) 
+| 946 | Sarah E Miller. 4/18/2016. Species associations from Wardeh, M. et al. Database of host-pathogen and related species interactions, and their global distribution. Sci. Data 2:150049 doi: 10.1038/sdata.2015.49 (2015) |
 | 1 | Sarah E Miller. 4/20/2015. Species associations manually extracted from various papers and articles from site https://repository.si.edu |
 | 4 | Sarah E Miller. 5/28/2015. Arnaud, Paul Henri. A Host-parasite Catalog of North American Tachinidae (Diptera). Washington, D.C.: U.S. Dept. of Agriculture, Science and Education Administration, 1978. |
 | 756 | Sarah E Miller. 5/30/2016. Interations from various papers. |
@@ -124,18 +124,18 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 | 3361 | https://mangal.io - the ecological interaction database. |
 
 ### Included files
-1. bee_data_BID.sh - script for separating bee records from the GloBI database interactions.tsv file
-2. interactions.tsv.gz - snapshot of the GloBI database from November 7, 2022
-3. indexed_interactions_bees.tsv.zip - bee records from the GloBI database on November 7, 2022
-4. uniq_citations.tsv - list of unique citations indicating bee interactions
-5. Andrenidae_data_unique.tsv - Andrenidae records	
-6. Apidae_data_unique.tsv - Apidae records		
-7. Colletidae_data_unique.tsv - Colletidae records
-8. Halictidae_data_unique.tsv - Halictidae records	
-9. Megachilidae_data_unique.tsv - Megachilidae records	
-10. Melittidae_data_unique.tsv - Melittidae records
-11. Stenotritidae_data_unique.tsv - Stenotritidae records
-12. README.md - this file
+- bee_data_BID.sh - script for separating bee records from the GloBI database interactions.tsv file
+- interactions.tsv.gz - snapshot of the GloBI database from November 7, 2022
+- indexed_interactions_bees.tsv.zip - bee records from the GloBI database on November 7, 2022
+- uniq_citations.tsv - list of unique citations indicating bee interactions
+- Andrenidae_data_unique.tsv - Andrenidae records	
+- Apidae_data_unique.tsv - Apidae records		
+- Colletidae_data_unique.tsv - Colletidae records
+- Halictidae_data_unique.tsv - Halictidae records	
+- Megachilidae_data_unique.tsv - Megachilidae records	
+- Melittidae_data_unique.tsv - Melittidae records
+- Stenotritidae_data_unique.tsv - Stenotritidae records
+- README.md - this file
 
 ### References
 GloBI Community. (2022). Global Biotic Interactions: Interpreted Data Products (0.4) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.3950589](https://doi.org/10.5281/zenodo.3950589)
