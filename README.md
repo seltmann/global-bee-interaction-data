@@ -60,7 +60,7 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 | 89 | Groom, Q.J., Maarten De Groot, M. & Marčiulynienė, D. (2020) Species interation data manually extracted from literature for species . |
 | 1 | Grundler MC (2020) SquamataBase: a natural history database and R package for comparative biology of snake feeding habits. Biodiversity Data Journal 8: e49943. https://doi.org/10.3897/BDJ.8.e49943 |
 | 1 | Gunther KA et al. 2014 Dietary breadth of grizzly bears in the Greater Yellowstone Ecosystem. Ursus 25(1):60-72 |
-| 214 | Harvard University M, Morris P J (2021). Museum of Comparative Zoology, Harvard University. Museum of Comparative Zoology, Harvard University. |
+| 214 | Harvard University M, Morris P J (2021). Museum of Comparative Zoology, Harvard University. Museum of Comparative Zoology, Harvard University. 
 | 575 | Illinois Natural History Survey Insect Collection |
 | 23 | Jakovos Demetriou and Quentin Groom 2014. Species associations of Sceliphron manually extracted from literature. |
 | 2 | Jorrit H. Poelen. 2017. Species interactions associated with known species interaction datasets. |
@@ -123,6 +123,19 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 | 5 | http://invertebrates.si.edu/parasites.htm |
 | 3361 | https://mangal.io - the ecological interaction database. |
 
+### Included files
+1. bee_data_BID.sh - script for separating bee records from the GloBI database interactions.tsv file
+2. interactions.tsv.gz - snapshot of the GloBI database from November 7, 2022
+3. indexed_interactions_bees.tsv.zip - bee records from the GloBI database on November 7, 2022
+4. uniq_citations.tsv - list of unique citations indicating bee interactions
+5. Andrenidae_data_unique.tsv - Andrenidae records	
+6. Apidae_data_unique.tsv - Apidae records		
+7. Colletidae_data_unique.tsv - Colletidae records
+8. Halictidae_data_unique.tsv - Halictidae records	
+9. Megachilidae_data_unique.tsv - Megachilidae records	
+10. Melittidae_data_unique.tsv - Melittidae records
+11. Stenotritidae_data_unique.tsv - Stenotritidae records
+12. README.md - this file
 
 ### References
 GloBI Community. (2022). Global Biotic Interactions: Interpreted Data Products (0.4) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.3950589](https://doi.org/10.5281/zenodo.3950589)
