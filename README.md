@@ -6,12 +6,12 @@ Last modified: November 7, 2022
 [```Introduction```](#introduction) / [```Data Description```](#data-description) / [```Metrics```](#metrics) /  [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
 
 ### Introduction
-This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org)(GloBI; Poelen et al. 2014). It is published quarterly by the [Big Bee Project](http://big-bee.net)(Seltmann et al. 2021) to summarize all available knowledge about bee interactions from natural history collection, and community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others.
+This dataset comprises all bee interactions indexed by [Global Biotic Interactions](https://www.globalbioticinteractions.org) (GloBI; Poelen et al. 2014). It is published quarterly by the [Big Bee Project](http://big-bee.net) (Seltmann et al. 2021) to summarize all available knowledge about bee interactions from natural history collection, and community science observations (i.e., iNaturalist), and the literature. Interactions include flower visitation, parasitic interactions (mite, viral), lecty, and many others.
 
 ### Data Description
-Please see the [integration process page](https://www.globalbioticinteractions.org/process) to better understand how Global Biotic Interactions combines datasets from various sources. The complete interaction dataset for all species can be accessed via [https://www.globalbioticinteractions.org/data](https://www.globalbioticinteractions.org/data).
+Please see the [integration process page](https://www.globalbioticinteractions.org/process) to better understand how Global Biotic Interactions combines datasets from various sources. The complete interaction dataset for all species can be accessed via [https://www.globalbioticinteractions.org/data](https://www.globalbioticinteractions.org/data) and through the GloBI Community Zenodo publication [https://doi.org/10.5281/zenodo.3950589](https://doi.org/10.5281/zenodo.3950589).
 
-Data is filtered for unique records based on the interaction description and source citation. Archives contain full data records and unique filtered records in both csv and tsv format.
+Data is filtered for unique records based on the interaction description and source citation. Archives contain full data records and unique filtered records in tab-delimited format.
 
 Dataset column name definitions [https://api.globalbioticinteractions.org/interactionFields](https://api.globalbioticinteractions.org/interactionFields) or [https://api.globalbioticinteractions.org/interactionFields?type=csv](https://api.globalbioticinteractions.org/interactionFields)
 
