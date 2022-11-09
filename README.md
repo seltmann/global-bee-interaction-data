@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6564738.svg)](https://doi.org/10.5281/zenodo.6564738)
 
+Last modified: November 7, 2022
+
 ## Global Bee Interaction Dataset
 [```Introduction```](#introduction) / [```Data Description```](#data-description) / [```Metrics```](#metrics) /  [```Included Resources```](#included-resources) /  [```References```](#references) /  [```Acknowledgements```](#acknowledgements)
 
@@ -123,8 +125,9 @@ Dataset column name definitions [https://api.globalbioticinteractions.org/intera
 
 
 ### References
+GloBI Community. (2022). Global Biotic Interactions: Interpreted Data Products (0.4) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.3950589](https://doi.org/10.5281/zenodo.3950589)
 
-Poelen JH, Simons JD, Mungall CJ (2014). Global Biotic Interactions: An open infrastructure to share and analyze species-interaction datasets. Ecological Informatics. [https://doi.org/10.1016/j.ecoinf.2014.08.005](https://doi.org/10.1016/j.ecoinf.2014.08.005).
+Poelen JH, Simons JD, Mungall CJ (2014). Global Biotic Interactions: An open infrastructure to share and analyze species-interaction datasets. Ecological Informatics. [https://doi.org/10.1016/j.ecoinf.2014.08.005](https://doi.org/10.1016/j.ecoinf.2014.08.005)
 
 Seltmann KC, Allen J, Brown BV, Carper A, Engel MS, Franz N, Gilbert E, Grinter C, Gonzalez VH, Horsley P, Lee S, Maier C, Miko I, Morris P, Oboyski P, Pierce NE, Poelen J, Scott VL, Smith M, Talamas EJ, Tsutsui ND, Tucker E (2021) Announcing Big-Bee: An initiative to promote understanding of bees through image and trait digitization. Biodiversity Information Science and Standards 5: e74037. [https://doi.org/10.3897/biss.5.74037](https://doi.org/10.3897/biss.5.74037)
 
