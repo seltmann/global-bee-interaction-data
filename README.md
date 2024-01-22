@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7309003.svg)](https://doi.org/10.5281/zenodo.7309003)
+>>>>>>> d020c89e2b2ff458965461d53f5a3e6510f0553e
 
 Last modified: January 22, 2023
 
